@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="mahoujin8" size="1.000000 1.000000"/>
+        <ImageTarget name="mahoujin7" size="1.000000 0.973333"/>
+        <ImageTarget name="mahoujin6" size="1.000000 0.973333"/>
+        <ImageTarget name="mahoujin5" size="1.000000 0.973333"/>
+        <ImageTarget name="mahoujin4" size="1.000000 0.973333"/>
+        <ImageTarget name="mahoujin3" size="1.000000 0.973333"/>
+        <ImageTarget name="mahoujin2" size="1.000000 0.976667"/>
+        <ImageTarget name="mahoujin1" size="1.000000 0.982301"/>
+        <ImageTarget name="ARBox.Top" size="70.000000 65.012497"/>
+        <ImageTarget name="ARBox.Left" size="65.000000 27.021429"/>
+        <ImageTarget name="ARBox.Front" size="70.000000 26.950001"/>
+        <ImageTarget name="ARBox.Right" size="65.000000 27.021429"/>
+        <ImageTarget name="ARBox.Bottom" size="70.000000 65.012497"/>
+        <ImageTarget name="ARBox.Back" size="70.000000 26.950001"/>
+        <MultiTarget name="ARBox">
+            <Part name="ARBox.Left" translation="-35.0 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="ARBox.Right" translation="35.0 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="ARBox.Front" translation="0 0 32.5" rotation="AD: 1 0 0 0"/>
+            <Part name="ARBox.Back" translation="0 0 -32.5" rotation="AD: 0 1 0 180"/>
+            <Part name="ARBox.Top" translation="0 13.5 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="ARBox.Bottom" translation="0 -13.5 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

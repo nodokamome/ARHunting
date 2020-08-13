@@ -1,0 +1,4582 @@
+fileFormatVersion: 2
+guid: 1f8c0fe1e7c5bfc409338acafa5acd08
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: head
+    100002: jaw0
+    100004: jaw1
+    100006: jaw1_end
+    100008: left arm0
+    100010: left arm1
+    100012: left eye
+    100014: left eye_end
+    100016: left finger1
+    100018: left finger1_end
+    100020: left fingers0
+    100022: left foot
+    100024: left hand
+    100026: left hips
+    100028: left leg
+    100030: left toes0
+    100032: left toes1
+    100034: left toes1_end
+    100036: neck0
+    100038: neck1
+    100040: neck2
+    100042: neck3
+    100044: pelvis
+    100046: right arm0
+    100048: right arm1
+    100050: right eye
+    100052: right eye_end
+    100054: right fingers0
+    100056: right fingers1
+    100058: right fingers1_end
+    100060: right foot
+    100062: right hand
+    100064: right hips
+    100066: right leg
+    100068: Right toes0
+    100070: right toes1
+    100072: right toes1_end
+    100074: root
+    100076: spine0
+    100078: spine1
+    100080: spine2
+    100082: spine3
+    100084: spine4
+    100086: tail0
+    100088: tail1
+    100090: tail2
+    100092: tail3
+    100094: tail4
+    100096: tail5
+    100098: tail6
+    100100: tail7
+    100102: tail8
+    100104: tail8_end
+    100106: tongue0
+    100108: tongue1
+    100110: tongue2
+    100112: tongue2_end
+    100114: //RootNode
+    100116: Tric
+    100118: tric
+    100120: tric_LOD_0
+    100122: tric_LOD_1
+    100124: tric_LOD_2
+    100126: left_arm0
+    100128: left_arm1
+    100130: left_eye
+    100132: left_finger1
+    100134: left_fingers0
+    100136: left_foot
+    100138: left_hand
+    100140: left_hips
+    100142: left_leg
+    100144: left_toes0
+    100146: left_toes1
+    100148: right_arm0
+    100150: right_arm1
+    100152: right_eye
+    100154: right_fingers0
+    100156: right_fingers1
+    100158: right_foot
+    100160: right_hand
+    100162: right_hips
+    100164: right_leg
+    100166: right_toes0
+    100168: right_toes1
+    100170: Untitled
+    100172: right toes0
+    400000: head
+    400002: jaw0
+    400004: jaw1
+    400006: jaw1_end
+    400008: left arm0
+    400010: left arm1
+    400012: left eye
+    400014: left eye_end
+    400016: left finger1
+    400018: left finger1_end
+    400020: left fingers0
+    400022: left foot
+    400024: left hand
+    400026: left hips
+    400028: left leg
+    400030: left toes0
+    400032: left toes1
+    400034: left toes1_end
+    400036: neck0
+    400038: neck1
+    400040: neck2
+    400042: neck3
+    400044: pelvis
+    400046: right arm0
+    400048: right arm1
+    400050: right eye
+    400052: right eye_end
+    400054: right fingers0
+    400056: right fingers1
+    400058: right fingers1_end
+    400060: right foot
+    400062: right hand
+    400064: right hips
+    400066: right leg
+    400068: Right toes0
+    400070: right toes1
+    400072: right toes1_end
+    400074: root
+    400076: spine0
+    400078: spine1
+    400080: spine2
+    400082: spine3
+    400084: spine4
+    400086: tail0
+    400088: tail1
+    400090: tail2
+    400092: tail3
+    400094: tail4
+    400096: tail5
+    400098: tail6
+    400100: tail7
+    400102: tail8
+    400104: tail8_end
+    400106: tongue0
+    400108: tongue1
+    400110: tongue2
+    400112: tongue2_end
+    400114: Tric
+    400116: //RootNode
+    400118: tric
+    400120: tric_LOD_0
+    400122: tric_LOD_1
+    400124: tric_LOD_2
+    400126: left_arm0
+    400128: left_arm1
+    400130: left_eye
+    400132: left_finger1
+    400134: left_fingers0
+    400136: left_foot
+    400138: left_hand
+    400140: left_hips
+    400142: left_leg
+    400144: left_toes0
+    400146: left_toes1
+    400148: right_arm0
+    400150: right_arm1
+    400152: right_eye
+    400154: right_fingers0
+    400156: right_fingers1
+    400158: right_foot
+    400160: right_hand
+    400162: right_hips
+    400164: right_leg
+    400166: right_toes0
+    400168: right_toes1
+    400170: Untitled
+    400172: right toes0
+    4300000: tric
+    4300002: tric_LOD_1
+    4300004: tric_LOD_2
+    4300006: tric_LOD_0
+    7400000: Tric|Stand1
+    7400002: Tric|Stand2
+    7400004: Tric|Step1
+    7400006: Tric|Step2
+    7400008: Tric|Walk
+    7400010: Tric|Run
+    7400012: Tric|RunAttack
+    7400014: Tric|Strafe1
+    7400016: Tric|Strafe2
+    7400018: Tric|Stand1Attack
+    7400020: Tric|Stand2Attack
+    7400022: Tric|Step1Attack
+    7400024: Tric|Step2Attack
+    7400026: Tric|EatA
+    7400028: Tric|EatB
+    7400030: Tric|EatC
+    7400032: Tric|Stand1A
+    7400034: Tric|Stand1B
+    7400036: Tric|Stand2A
+    7400038: Tric|Stand2B
+    7400040: Tric|Stand1C
+    7400042: Tric|Stand2C
+    7400044: Tric|Sitting
+    7400046: Tric|SitLoop
+    7400048: Tric|SitGrowl
+    7400050: Tric|SleepLoop
+    7400052: Tric|RunAttackA
+    7400054: Tric|RunAttackB
+    7400056: Tric|Die1
+    7400058: Tric|Die2
+    7400060: Tric|WalkGrowl
+    7400062: Tric|RunGrowl
+    7400064: Tric|Idle1A
+    7400066: Tric|Idle1B
+    7400068: Tric|Idle1C
+    7400070: Tric|Idle2A
+    7400072: Tric|Idle2B
+    7400074: Tric|Idle2C
+    7400076: Tric|IdleAtk1
+    7400078: Tric|IdleAtk2
+    7400080: Tric|RunAtk1
+    7400082: Tric|RunAtk2
+    7400084: Tric|SitIdle
+    7400086: Tric|Sleep
+    7400088: Tric|StepAtk1
+    7400090: Tric|StepAtk2
+    7400092: Tric|ToSit
+    7400094: Tric|Tric
+    9500000: //RootNode
+    13700000: tric
+    13700002: tric_LOD_0
+    13700004: tric_LOD_1
+    13700006: tric_LOD_2
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Tric|Die1
+      takeName: Tric|Die1
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Die2
+      takeName: Tric|Die2
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|EatA
+      takeName: Tric|EatA
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|EatB
+      takeName: Tric|EatB
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|EatC
+      takeName: Tric|EatC
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Idle1A
+      takeName: Tric|Idle1A
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Idle1B
+      takeName: Tric|Idle1B
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Idle1C
+      takeName: Tric|Idle1C
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Idle2A
+      takeName: Tric|Idle2A
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Idle2B
+      takeName: Tric|Idle2B
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Idle2C
+      takeName: Tric|Idle2C
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|IdleAtk1
+      takeName: Tric|IdleAtk1
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|IdleAtk2
+      takeName: Tric|IdleAtk2
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Run
+      takeName: Tric|Run
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|RunAtk1
+      takeName: Tric|RunAtk1
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|RunAtk2
+      takeName: Tric|RunAtk2
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|RunGrowl
+      takeName: Tric|RunGrowl
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|SitGrowl
+      takeName: Tric|SitGrowl
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|SitIdle
+      takeName: Tric|SitIdle
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Sleep
+      takeName: Tric|Sleep
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Step1
+      takeName: Tric|Step1
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Step2
+      takeName: Tric|Step2
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|StepAtk1
+      takeName: Tric|StepAtk1
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|StepAtk2
+      takeName: Tric|StepAtk2
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Strafe1
+      takeName: Tric|Strafe1
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Strafe2
+      takeName: Tric|Strafe2
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|ToSit
+      takeName: Tric|ToSit
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Tric
+      takeName: Tric|Tric
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|Walk
+      takeName: Tric|Walk
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tric|WalkGrowl
+      takeName: Tric|WalkGrowl
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tric
+        weight: 1
+      - path: Tric/root
+        weight: 1
+      - path: Tric/root/pelvis
+        weight: 1
+      - path: Tric/root/pelvis/left hips
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0
+        weight: 1
+      - path: Tric/root/pelvis/left hips/left leg/left foot/left toes0/left toes1
+        weight: 1
+      - path: Tric/root/pelvis/right hips
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0
+        weight: 1
+      - path: Tric/root/pelvis/right hips/right leg/right foot/right toes0/right toes1
+        weight: 1
+      - path: Tric/root/pelvis/tail0
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+        weight: 1
+      - path: Tric/root/pelvis/tail0/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+        weight: 1
+      - path: Tric/root/spine0
+        weight: 1
+      - path: Tric/root/spine0/spine1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/left arm0/left arm1/left
+          hand/left fingers0/left finger1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/jaw1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/jaw0/tongue0/tongue1/tongue2
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/left
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/neck0/neck1/neck2/neck3/head/right
+          eye
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0
+        weight: 1
+      - path: Tric/root/spine0/spine1/spine2/spine3/spine4/right arm0/right arm1/right
+          hand/right fingers0/right fingers1
+        weight: 1
+      - path: tric_LOD_0
+        weight: 1
+      - path: tric_LOD_1
+        weight: 1
+      - path: tric_LOD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

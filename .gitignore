@@ -4,6 +4,9 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+/iOS/
+/iOS Simulator/
+/Android/
 
 # Visual Studio cache directory
 .vs/
@@ -49,3 +52,6 @@ Thumbs.db
 
 #python bytecode cache, for some plugins.
 *.pyc
+
+#zip files
+*.zip
